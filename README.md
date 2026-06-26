@@ -1,5 +1,4 @@
-# CS370
-**Current/Emerging Trends in CS**
+# CS370 - Current/Emerging Trends in CS
 
 ## Briefly explain the work that you did on this project:
 
